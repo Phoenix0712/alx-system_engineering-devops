@@ -1,2 +1,2 @@
-#!/bin/bash
-path=$(realpath 0-current_working_directory.sh) DIR_PATH=$(dirname $path) echo $DIR_PATH
+#!/bin/bash 
+pwd
